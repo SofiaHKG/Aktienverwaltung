@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1710633997 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_algos_cb\main.cpp
+	<iostream>
+	<limits>
+	"Aktie.h"
+	"HashTable.h"
+
+1710632391 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_algos_cb\src\aktie.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	"Aktie.h"
+
+1710634309 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_algos_cb\include\aktie.h
+	"Kursdaten.h"
+	<string>
+	<vector>
+
+1710624508 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_algos_cb\include\kursdaten.h
+	<string>
+
+1710633492 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_algos_cb\src\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1710634309 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_algos_cb\include\hashtable.h
+	"Aktie.h"
+	<vector>
+	<string>
+
+1710608908 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_algos_cb\src\kursdaten.cpp
+	"Kursdaten.h"
+
+1710889583 source:c:\users\barni\onedrive\uni\algo\aktienverwaltung\aktienverwaltung_algos_cb\main.cpp
+	<iostream>
+	<limits>
+	"Aktie.h"
+	"HashTable.h"
+
+1710885475 c:\users\barni\onedrive\uni\algo\aktienverwaltung\aktienverwaltung_algos_cb\include\aktie.h
+	"Kursdaten.h"
+	<string>
+	<vector>
+
+1710710447 c:\users\barni\onedrive\uni\algo\aktienverwaltung\aktienverwaltung_algos_cb\include\kursdaten.h
+	<string>
+
+1710873013 c:\users\barni\onedrive\uni\algo\aktienverwaltung\aktienverwaltung_algos_cb\include\hashtable.h
+	"Aktie.h"
+	<vector>
+	<string>
+
+1710889519 source:c:\users\barni\onedrive\uni\algo\aktienverwaltung\aktienverwaltung_algos_cb\src\aktie.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	"Aktie.h"
+	<cmath>
+
+1710875008 source:c:\users\barni\onedrive\uni\algo\aktienverwaltung\aktienverwaltung_algos_cb\src\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1710710447 source:c:\users\barni\onedrive\uni\algo\aktienverwaltung\aktienverwaltung_algos_cb\src\kursdaten.cpp
+	"Kursdaten.h"
+
+1710908293 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_barni\main.cpp
+	<iostream>
+	"Aktie.h"
+	"HashTable.h"
+
+1710891391 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_barni\include\aktie.h
+	"Kursdaten.h"
+	<string>
+	<vector>
+
+1710891391 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_barni\include\kursdaten.h
+	<string>
+
+1710891621 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_barni\include\hashtable.h
+	"Aktie.h"
+	<vector>
+	<string>
+
+1710893603 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_barni\src\aktie.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	"Aktie.h"
+	<cmath>
+
+1710908252 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_barni\src\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1710890521 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_barni\src\kursdaten.cpp
+	"Kursdaten.h"
+
+1710908293 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_gruppef_körömi_ginalis\main.cpp
+	<iostream>
+	"Aktie.h"
+	"HashTable.h"
+
+1710891391 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_gruppef_körömi_ginalis\include\aktie.h
+	"Kursdaten.h"
+	<string>
+	<vector>
+
+1710891391 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_gruppef_körömi_ginalis\include\kursdaten.h
+	<string>
+
+1710891621 c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_gruppef_körömi_ginalis\include\hashtable.h
+	"Aktie.h"
+	<vector>
+	<string>
+
+1710893603 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_gruppef_körömi_ginalis\src\aktie.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	"Aktie.h"
+	<cmath>
+
+1710890521 source:c:\users\sofia\documents\2.semester\algoslab\aktienverwaltung_gruppef_körömi_ginalis\src\kursdaten.cpp
+	"Kursdaten.h"
+
